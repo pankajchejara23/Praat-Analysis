@@ -1,0 +1,258 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1961.05 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Pankaj" 
+        xmin = 0 
+        xmax = 1961.05 
+        intervals: size = 61 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.325831600831601 
+            text = "user-1" 
+        intervals [2]:
+            xmin = 6.325831600831601 
+            xmax = 7.882103257103258 
+            text = "user-3" 
+        intervals [3]:
+            xmin = 7.882103257103258 
+            xmax = 9.575693000693 
+            text = "" 
+        intervals [4]:
+            xmin = 9.575693000693 
+            xmax = 11.31505544005544 
+            text = "user-3" 
+        intervals [5]:
+            xmin = 11.31505544005544 
+            xmax = 13.466372141372142 
+            text = "noise" 
+        intervals [6]:
+            xmin = 13.466372141372142 
+            xmax = 15.068416493416501 
+            text = "teacher" 
+        intervals [7]:
+            xmin = 15.068416493416501 
+            xmax = 15.114189189189197 
+            text = "" 
+        intervals [8]:
+            xmin = 15.114189189189197 
+            xmax = 16.39582467082468 
+            text = "user-3" 
+        intervals [9]:
+            xmin = 16.39582467082468 
+            xmax = 18.081687736137084 
+            text = "none" 
+        intervals [10]:
+            xmin = 18.081687736137084 
+            xmax = 20.933873482816296 
+            text = "user-3" 
+        intervals [11]:
+            xmin = 20.933873482816296 
+            xmax = 36.96742086424928 
+            text = "" 
+        intervals [12]:
+            xmin = 36.96742086424928 
+            xmax = 39.57646452329294 
+            text = "user-3" 
+        intervals [13]:
+            xmin = 39.57646452329294 
+            xmax = 41.45793485879428 
+            text = "user-1" 
+        intervals [14]:
+            xmin = 41.45793485879428 
+            xmax = 49.330838531697964 
+            text = "" 
+        intervals [15]:
+            xmin = 49.330838531697964 
+            xmax = 52.41785231384408 
+            text = "noise" 
+        intervals [16]:
+            xmin = 52.41785231384408 
+            xmax = 55.02034404239308 
+            text = "" 
+        intervals [17]:
+            xmin = 55.02034404239308 
+            xmax = 57.21743343948248 
+            text = "user-3" 
+        intervals [18]:
+            xmin = 57.21743343948248 
+            xmax = 59.04834127039031 
+            text = "user-2" 
+        intervals [19]:
+            xmin = 59.04834127039031 
+            xmax = 59.87224979429884 
+            text = "user-3" 
+        intervals [20]:
+            xmin = 59.87224979429884 
+            xmax = 61.891038217118286 
+            text = "user-2" 
+        intervals [21]:
+            xmin = 61.891038217118286 
+            xmax = 62.767271367294285 
+            text = "user-3" 
+        intervals [22]:
+            xmin = 62.767271367294285 
+            xmax = 65.78826928829221 
+            text = "" 
+        intervals [23]:
+            xmin = 65.78826928829221 
+            xmax = 82.31700227105623 
+            text = "" 
+        intervals [24]:
+            xmin = 82.31700227105623 
+            xmax = 84.65140975546372 
+            text = "overlap-3,4" 
+        intervals [25]:
+            xmin = 84.65140975546372 
+            xmax = 85.90096377620725 
+            text = "none" 
+        intervals [26]:
+            xmin = 85.90096377620725 
+            xmax = 87.22837195361544 
+            text = "user-3" 
+        intervals [27]:
+            xmin = 87.22837195361544 
+            xmax = 88.60096545290503 
+            text = "noise" 
+        intervals [28]:
+            xmin = 88.60096545290503 
+            xmax = 92.07969033162992 
+            text = "" 
+        intervals [29]:
+            xmin = 92.07969033162992 
+            xmax = 94.50564320758279 
+            text = "" 
+        intervals [30]:
+            xmin = 94.50564320758279 
+            xmax = 96.88582338776298 
+            text = "user-3" 
+        intervals [31]:
+            xmin = 96.88582338776298 
+            xmax = 98.71673121867082 
+            text = "" 
+        intervals [32]:
+            xmin = 98.71673121867082 
+            xmax = 99.49486704680663 
+            text = "noise" 
+        intervals [33]:
+            xmin = 99.49486704680663 
+            xmax = 101.0053660073056 
+            text = "user-3" 
+        intervals [34]:
+            xmin = 101.0053660073056 
+            xmax = 103.33977349171309 
+            text = "" 
+        intervals [35]:
+            xmin = 103.33977349171309 
+            xmax = 106.06657026428105 
+            text = "" 
+        intervals [36]:
+            xmin = 106.06657026428105 
+            xmax = 107.16511496282575 
+            text = "noise" 
+        intervals [37]:
+            xmin = 107.16511496282575 
+            xmax = 109.22488627259706 
+            text = "" 
+        intervals [38]:
+            xmin = 109.22488627259706 
+            xmax = 110.00302210073289 
+            text = "noise" 
+        intervals [39]:
+            xmin = 110.00302210073289 
+            xmax = 111.42197566968646 
+            text = "noise" 
+        intervals [40]:
+            xmin = 111.42197566968646 
+            xmax = 113.20711080482161 
+            text = "user-3" 
+        intervals [41]:
+            xmin = 113.20711080482161 
+            xmax = 115.77038176809258 
+            text = "user-4" 
+        intervals [42]:
+            xmin = 115.77038176809258 
+            xmax = 117.7386076863185 
+            text = "overlap-2,4" 
+        intervals [43]:
+            xmin = 117.7386076863185 
+            xmax = 120.80537830308911 
+            text = "user-1" 
+        intervals [44]:
+            xmin = 120.80537830308911 
+            xmax = 122.59051343822426 
+            text = "overlap-1,2" 
+        intervals [45]:
+            xmin = 122.59051343822426 
+            xmax = 124.2383304860413 
+            text = "user-2" 
+        intervals [46]:
+            xmin = 124.2383304860413 
+            xmax = 124.87562398351132 
+            text = "" 
+        intervals [47]:
+            xmin = 124.87562398351132 
+            xmax = 128.0113473308866 
+            text = "" 
+        intervals [48]:
+            xmin = 128.0113473308866 
+            xmax = 129.47607359561286 
+            text = "silence" 
+        intervals [49]:
+            xmin = 129.47607359561286 
+            xmax = 131.3985268180661 
+            text = "" 
+        intervals [50]:
+            xmin = 131.3985268180661 
+            xmax = 133.22943464897392 
+            text = "" 
+        intervals [51]:
+            xmin = 133.22943464897392 
+            xmax = 134.3279793475186 
+            text = "silence" 
+        intervals [52]:
+            xmin = 134.3279793475186 
+            xmax = 135.19766056719985 
+            text = "" 
+        intervals [53]:
+            xmin = 135.19766056719985 
+            xmax = 136.98279570233498 
+            text = "" 
+        intervals [54]:
+            xmin = 136.98279570233498 
+            xmax = 139.0009967512632 
+            text = "" 
+        intervals [55]:
+            xmin = 139.0009967512632 
+            xmax = 140.92344997371643 
+            text = "user-4" 
+        intervals [56]:
+            xmin = 140.92344997371643 
+            xmax = 143.02899397926043 
+            text = "" 
+        intervals [57]:
+            xmin = 143.02899397926043 
+            xmax = 149.7575802578467 
+            text = "user-4" 
+        intervals [58]:
+            xmin = 149.7575802578467 
+            xmax = 151.33350770560256 
+            text = "noise" 
+        intervals [59]:
+            xmin = 151.33350770560256 
+            xmax = 153.09546280590573 
+            text = "user-3" 
+        intervals [60]:
+            xmin = 153.09546280590573 
+            xmax = 154.6517344621774 
+            text = "" 
+        intervals [61]:
+            xmin = 154.6517344621774 
+            xmax = 1961.05 
+            text = "" 
