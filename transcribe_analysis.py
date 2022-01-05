@@ -26,12 +26,13 @@ read_flag = False
 # Iterate over all lines one by one
 for line in lines:
     # read flag is true. This flag specify that the next line is the data line.
-    if read_flag == True:
+    if read_flag:
 
         # Increase line count
         line_count = line_count + 1
 
-        # Condition to read only three lines. Each data transciption has three lines.
+        # Condition to read only three lines. 
+        # Each data transciption has three lines.
         if line_count < 4:
             # Split the line using space.
             words = line.split(" ")
